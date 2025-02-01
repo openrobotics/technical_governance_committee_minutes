@@ -21,30 +21,32 @@ The minutes are instead intended to be a record of what was discussed and what d
 
 The following are the members of the TGC as of the most recent update to this README file.
 
-- Geoffrey Biggs, OSRF (TGC Chair)
-- Vicky Brasseur (OSRA Open Governance Advisor)
-- Angelo Corsaro, Zettascale
-- Tully Foote, Intrinsic
-- Christine Fraser, Asimovo
-- Michael Grey, Intrinsic (Open-RMF Project Leader)
-- Michel Hidalgo, Ekumen
-- Jason Higgins, Clearpath Robotics
-- Andra Keay, Silicon Valley Robotics
-- Chris Lalancette, Intrinsic (ROS Project Leader)
-- Steve Macenski, Open Navigation (Supporting Individual Representative)
-- Sathish Mani, Qualcomm Technologies
-- Vanessa Yamzon Orsi, OSRF (Secretary)
-- Steven! Ragnarök, Intrinsic (Infrastructure Project Leader)
-- Kat Scott, Intrinsic (OSRF Developer Advocate)
-- Hemal Shah, NVIDIA
 - Addisu Taddese, Intrinsic (Gazebo Project Leader)
+- Clara Berendsen, Ekumen (Infrastructure Project Representative)
+- Daniel Gordon, Huawei (Gold Representative)
+- David Lu!! (Supporting Individual Representative)
+- Geoffrey Biggs, OSRF (TGC Chair)
+- Hemal Shah, NVIDIA (Platinum Member Representative)
+- Henkel Christian, Bosch (Gold Representative)
+- Kat Scott, Intrinsic (Developer Relations Representative)
+- Maria Carolina Vergo, ROS-Industrial (Silver Representative)
+- Michael Carrol, Intrinsic (Interim ROS Project Leader)
+- Michael Grey, Intrinsic (Open-RMF Project Leader)
+- Michel Hidalgo, Ekumen (Silver Representative)
+- Sathish Mani, Qualcomm Technologies (Platinum Member Representative)
+- Steve Peters, Intrinsic (Gazebo Project Representative)
+- Steven! Ragnarok, Intrinsic (Infrastructure Project Leader)
+- Tully Foote, Intrinsic (Platinum Member Representative)
+- Vanessa Yamzon Orsi, OSRF (Secretary)
+- Vicky Brasseur (OSRA Open Governance Advisor)
+- Yadunund Vijay, Intrinsic (Open-RMF Project Representative)
 
 The members of the TGC provide their time freely for the good of the OSRA and all the projects it manages.
 However, their time is not unlimited.
 Please do not contact TGC members directly, except in line with the following.
 
 - If you are a Supporting Individual Member of the OSRA, and wish to have a topic raised in the TGC, please contact the Supporting Individual Representative.
-- If your employer is an organisation member (Platinum, Gold, Silver, and Associate) in the OSRA, and you wish to have a topic raised in the TGC, please have your employer's OSRA Representative contact the representative for your employer's membership class.
+- If your employer is an organisation member (Gold, Silver, or Associate) in the OSRA, and you wish to have a topic raised in the TGC, please have your employer's OSRA Representative contact the representative(s) for your employer's membership class.
   Do not contact the TGC representative directly yourself unless you are the OSRA Representative for your employer.
 
 ## Use of these minutes

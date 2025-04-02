@@ -22,6 +22,7 @@ The minutes are instead intended to be a record of what was discussed and what d
 The following are the members of the TGC as of the most recent update to this README file.
 
 - Addisu Taddese, Intrinsic (Gazebo Project Leader)
+- Bence Magyar (ROS Controls Project Leader)
 - Clara Berendsen, Ekumen (Infrastructure Project Representative)
 - Daniel Gordon, Huawei (Gold Representative)
 - David Lu!! (Supporting Individual Representative)

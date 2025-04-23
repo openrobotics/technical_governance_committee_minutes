@@ -22,6 +22,7 @@ The minutes are instead intended to be a record of what was discussed and what d
 The following are the members of the TGC as of the most recent update to this README file.
 
 - Addisu Taddese, Intrinsic (Gazebo Project Leader)
+- Alejandro Hernandez Cordero (ROS Project Representative)
 - Bence Magyar (ROS Controls Project Leader)
 - Clara Berendsen, Ekumen (Infrastructure Project Representative)
 - Daniel Gordon, Huawei (Gold Representative)
@@ -31,7 +32,7 @@ The following are the members of the TGC as of the most recent update to this RE
 - Henkel Christian, Bosch (Gold Representative)
 - Kat Scott, Intrinsic (Developer Relations Representative)
 - Maria Carolina Vergo, ROS-Industrial (Silver Representative)
-- Michael Carrol, Intrinsic (Interim ROS Project Leader)
+- Michael Carrol, Intrinsic (ROS Project Leader)
 - Michael Grey, Intrinsic (Open-RMF Project Leader)
 - Michel Hidalgo, Ekumen (Silver Representative)
 - Sathish Mani, Qualcomm Technologies (Platinum Member Representative)

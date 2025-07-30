@@ -1,7 +1,7 @@
 # Minutes of the Technical Governance Committee of the OSRA
 
 This repository contains the *approved* minutes of past meetings of the [Open Source Robotics Alliance](https://osralliance.org/)'s Technical Governance Committee (TGC).
-For full details of the functioning of the TGC, see the [OSRA Charter]() and the OSRA's [Technical Governance Policies and Procedures](https://github.com/openrobotics/osra-policies-and-procedures/blob/main/technical_governance_policies_and_procedures.md).
+For full details of the functioning of the TGC, see the [OSRA Charter](<>) and the OSRA's [Technical Governance Policies and Procedures](https://github.com/openrobotics/osra-policies-and-procedures/blob/main/technical_governance_policies_and_procedures.md).
 Quoting the P&P:
 
 > The TGC is responsible for overseeing the Project Management Committees, ensuring that each Project is managed appropriately with respect to the Project's goals and the OSRF's goals.
@@ -35,6 +35,7 @@ The following are the members of the TGC as of the most recent update to this RE
 - Michael Carrol, Intrinsic (ROS Project Leader)
 - Michael Grey, Intrinsic (Open-RMF Project Leader)
 - Michel Hidalgo, Ekumen (Silver Representative)
+- Mirko Ferrati, Canonical (Platinum Representative)
 - Sathish Mani, Qualcomm Technologies (Platinum Member Representative)
 - Steve Peters, Intrinsic (Gazebo Project Representative)
 - Steven! Ragnarok, Intrinsic (Infrastructure Project Leader)
